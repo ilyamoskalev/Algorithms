@@ -11,8 +11,8 @@ void reverse( int* mas , int size ){
     }
 }
 
-void output( int* mas , int size){
-    for( int i = 0; i < size; ++i){
+void output( int* mas , int size ){
+    for( int i = 0; i < size; ++i ){
         cout << mas[i] << " ";
     }
 }
